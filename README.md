@@ -1,4 +1,6 @@
-# Tutorial_LOVE
-h1. Hola!
+# Tutorial_LÖVE
+## Hola!
 
-Un pequeño espacio para aprender ciertas cosas básicas de [LÖVE](https://love2d.org)
+Esto es un pequeño espacio para aprender ciertas cosas básicas de [LÖVE](https://love2d.org).
+
+Para ver todo el tutorial de manera más atractiva puedes dirigirse [Tutorial_LÖVE](https://garruz.github.io/Tutorial_LOVE).
