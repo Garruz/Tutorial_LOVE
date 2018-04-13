@@ -1,3 +1,4 @@
 # Tutorial_LOVE
-h1. Hola!.
-Un pequeño espacio para aprender ciertas cosas básicas de "LÖVE":https://love2d.org
+h1. Hola!
+
+Un pequeño espacio para aprender ciertas cosas básicas de [LÖVE].(https://love2d.org)
